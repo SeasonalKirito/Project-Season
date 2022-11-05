@@ -33,4 +33,7 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/SeasonalKirito/Script
 
 elseif game.PlaceId == 6678877691 then -- Zo-ぞ
 loadstring(game:HttpGet("https://raw.githubusercontent.com/SeasonalKirito/Scripts/main/Zo-ぞ?token=GHSAT0AAAAAABZARLLYUMHJEKR5LVZVEFIKY3GDZXQ"))();
+  
+elseif game.PlaceId == 914010731 then -- Ro-Ghoul
+loadstring(game:HttpGet("https://raw.githubusercontent.com/SeasonalKirito/Scripts/main/Ro-Ghoul"))();
 end
